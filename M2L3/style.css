@@ -1,0 +1,17 @@
+body {
+    font-family: 'Inter'; /* Familia de fuentes */
+    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #5988FF; /* El color del fondo de la página web */
+    color: #ffffff; /* El color del texto*/ 
+    border: #D6FF6B;
+}
+h1 {
+    color: #FD98FB; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h2 {
+    color: #D6FF6B;
+    font-size: 20px;
+    font-family:'Inter', Times, serif;
+}
